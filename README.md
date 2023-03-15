@@ -110,7 +110,6 @@
 <img align="left" alt="OpenGL" width="60px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/opengl/opengl-original.svg" />
 <img align="left" alt="Docker" width="60px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/docker/docker-original.svg" />
 <img align="left" alt="IntelliJ" width="60px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/intellij/intellij-original.svg" />
-<img align="left" alt="Arduino" width="60px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/arduino/arduino-original.svg" />
 <br />
 <br />
 <br />
