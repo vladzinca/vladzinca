@@ -14,12 +14,16 @@
 
 - 🔧 Let's build something together!
 
+<br />
+
 [![Vlad's GitHub stats](https://github-readme-stats.vercel.app/api?username=vladzinca&hide=contribs&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vladzinca&layout=compact&hide=glsl&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 💻 My projects
 
 *Please, press on any one of them!*
+
+<br />
 
 <a href="https://github.com/vladzinca/store-order-management-app">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vladzinca&repo=store-order-management-app&theme=radical" />
