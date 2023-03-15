@@ -92,6 +92,7 @@
 <img align="left" alt="Visual Studio" width="60px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/visualstudio/visualstudio-plain.svg" />
 <br />
 <br />
+<br />
 
 #### 🟡 Basic
 *Have worked with in the past, can pick up again fairly easy*
@@ -109,6 +110,7 @@
 <img align="left" alt="Arduino" width="60px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/arduino/arduino-original.svg" />
 <br />
 <br />
+<br />
 
 #### 🟢 Would love to learn
 *If it's here, I really wanna learn it*
@@ -124,6 +126,7 @@
 <img align="left" alt="MongoDB" width="60px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/mongodb/mongodb-original.svg" />
 <img align="left" alt="TensorFlow" width="60px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/tensorflow/tensorflow-original.svg" />
 <img align="left" alt="Unreal Engine" width="60px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/unrealengine/unrealengine-original.svg" />
+<br />
 <br />
 <br />
 
