@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 ### 👨‍💻 About me
 
-- 💼 Future Software Engineer
+- 🚀 Future Software Engineer
 
 - 🎓 I'm studying Computer Science @ University Politehnica of Bucharest and graduating in 2024
 
@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
 - 🔧 Let's build something together!
 
-[![Vlad's GitHub stats](https://github-readme-stats.vercel.app/api?username=vladzinca&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Vlad's GitHub stats](https://github-readme-stats.vercel.app/api?username=vladzinca&hide=contribs&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vladzinca&layout=compact&hide=glsl&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 💻 My projects
