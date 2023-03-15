@@ -80,8 +80,9 @@
 *GitHub in Intermediate, of course!*
 
 #### 🟠 Intermediate
-*Feels comfortable*  
+*Feels comfortable*
 
+<div>
 <img align="left" alt="C" width="60px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/c/c-original.svg" />
 <img align="left" alt="C++" width="60px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/cplusplus/cplusplus-original.svg" />
 <img align="left" alt="Java" width="60px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/java/java-original.svg" />
@@ -90,6 +91,7 @@
 <img align="left" alt="Ubuntu" width="60px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/ubuntu/ubuntu-plain.svg" />
 <img align="left" alt="VS Code" width="60px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/vscode/vscode-original.svg" />
 <img align="left" alt="Visual Studio" width="60px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/visualstudio/visualstudio-plain.svg" />
+<br />
 <br />
 <br />
 <br />
@@ -113,6 +115,7 @@
 <br />
 <br />
 <br />
+<br />
 
 #### 🟢 Would love to learn
 *If it's here, I really wanna learn it*
@@ -128,6 +131,7 @@
 <img align="left" alt="MongoDB" width="60px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/mongodb/mongodb-original.svg" />
 <img align="left" alt="TensorFlow" width="60px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/tensorflow/tensorflow-original.svg" />
 <img align="left" alt="Unreal Engine" width="60px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/unrealengine/unrealengine-original.svg" />
+<br />
 <br />
 <br />
 <br />
