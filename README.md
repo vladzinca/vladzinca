@@ -95,6 +95,7 @@
 <br />
 <br />
 <br />
+<br />
 
 #### 🟡 Basic
 *Have worked with in the past, can pick up again fairly easy*
@@ -130,6 +131,7 @@
 <img align="left" alt="MongoDB" width="60px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/mongodb/mongodb-original.svg" />
 <img align="left" alt="TensorFlow" width="60px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/tensorflow/tensorflow-original.svg" />
 <img align="left" alt="Unreal Engine" width="60px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/unrealengine/unrealengine-original.svg" />
+<br />
 <br />
 <br />
 <br />
