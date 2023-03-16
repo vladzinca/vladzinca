@@ -41,8 +41,8 @@
 <a href="https://github.com/vladzinca/manager-worker-distributed-system">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vladzinca&repo=manager-worker-distributed-system" />
 </a>
-<a href="https://github.com/vladzinca/pythagorean-triples">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vladzinca&repo=pythagorean-triples" />
+<a href="https://github.com/vladzinca/haskell-graphs">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vladzinca&repo=haskell-graphs" />
 </a>
 <a href="https://github.com/vladzinca/duck-hunt-clone">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vladzinca&repo=duck-hunt-clone" />
@@ -56,11 +56,11 @@
 <a href="https://github.com/vladzinca/other-cpp-algorithms">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vladzinca&repo=other-cpp-algorithms" />
 </a>
-<a href="https://github.com/vladzinca/haskell-graphs">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vladzinca&repo=haskell-graphs" />
-</a>
 <a href="https://github.com/vladzinca/client-server-app">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vladzinca&repo=client-server-app" />
+</a>
+<a href="https://github.com/vladzinca/pythagorean-triples">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vladzinca&repo=pythagorean-triples" />
 </a>
 <a href="https://github.com/vladzinca/World-of-Warcraft-clone">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vladzinca&repo=World-of-Warcraft-clone" />
