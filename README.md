@@ -114,6 +114,7 @@
   <img alt="Swift" width="60px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/swift/swift-original.svg" />
   <img alt="C#" width="60px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/csharp/csharp-original.svg" />
   <img alt="Rust" width="60px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/rust/rust-plain.svg" />
+  <img alt="Solidity" width="60px" src="https://github.com/devicons/devicon/blob/master/icons/solidity/solidity-original.svg" />
   <img alt="React" width="60px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/react/react-original.svg" />
   <img alt="Vue.js" width="60px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/vuejs/vuejs-original.svg" />
   <img alt="Node.js" width="60px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/nodejs/nodejs-original.svg" />
