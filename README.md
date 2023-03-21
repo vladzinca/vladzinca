@@ -102,7 +102,6 @@
   <img alt="Flask" width="60px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/flask/flask-original.svg" />
   <img alt="OpenGL" width="60px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/opengl/opengl-original.svg" />
   <img alt="Docker" width="60px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/docker/docker-original.svg" />
-  <img alt="IntelliJ" width="60px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/intellij/intellij-original.svg" />
   <img alt="Arduino" width="60px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/arduino/arduino-original.svg" />
 </div>
 
