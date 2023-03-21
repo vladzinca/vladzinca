@@ -87,7 +87,7 @@
   <img alt="Ubuntu" width="60px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/ubuntu/ubuntu-plain.svg" />
   <img alt="VS Code" width="60px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/vscode/vscode-original.svg" />
   <img alt="Visual Studio" width="60px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/visualstudio/visualstudio-plain.svg" />
-  <img alt="GitHub" width="60px" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" />
+  <img alt="Git" width="60px" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" />
 </div>
 
 ### 🟡 Basic
