@@ -73,7 +73,6 @@
 </a>
 
 ## 🤖 Languages, Frameworks and Tools
-*GitHub belongs in Intermediate, of course!*
 
 ### 🟠 Intermediate
 *Feels comfortable*
