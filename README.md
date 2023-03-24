@@ -120,7 +120,7 @@
   <img alt="Django" width="60px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/django/django-plain.svg" />
   <img alt="MongoDB" width="60px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/mongodb/mongodb-original.svg" />
   <img alt="TensorFlow" width="60px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/tensorflow/tensorflow-original.svg" />
-  <img alt="Unreal Engine" width="60px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/unrealengine/unrealengine-original.svg" />
+  <img alt="Unreal Engine 5" width="60px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/unrealengine/unrealengine-original.svg" />
 </div>
 
 ## ⛳ Fun facts
